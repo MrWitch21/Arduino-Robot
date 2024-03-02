@@ -1,5 +1,4 @@
 # Arduino-Robot
-This is one of my first project in  collage 
 Mecanum wheel robot controlled by bluetooth (with phone)
 How it works: https://seamonsters-2605.github.io/archive/mecanum/
 How to use:
